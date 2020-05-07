@@ -1,16 +1,25 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## Installation
 
-In the project directory, you can run:
+Before running anything, please make sure you have following up-to-date setup. 
 
-### `npm start`
+1. First make sure that you have npm and node installed and running in your system. You can download and setup both from [here](https://nodejs.org/en/). <br/>
+2. Make sure that you can run npm from your terminal. As a test, try running `npm -v` to check installation version.<br/><br/>
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+
+## Check Web app demo
+
+Once everything is setup, clone this repo in your local machine.<br/>
+Then travel to the cloned repo from your terminal and run `npm start` to see web-application built so far. <br/>
+
+By default, web-application will pop on [http://localhost:3000](http://localhost:3000) in the browser. <br/>
+
 
 The page will reload if you make edits.<br />
 You will also see any lint errors in the console.
+
+Following commands will be useful to you want to take part in the development of the application.
 
 ### `npm test`
 
